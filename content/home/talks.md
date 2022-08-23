@@ -1,5 +1,5 @@
 ---
-widget: events
+widget: pages
 widget_id: talks
 headless: true
 weight: 30
