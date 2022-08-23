@@ -34,3 +34,5 @@ image:
   preview_only: false
 date: 2022-02-21T16:56:50.772Z
 ---
+* 2021 - Second Place, INFORMS Service Science Best Student Paper Award (INFORMS Annual Meeting)
+* Preliminary version in 2021 MSOM Healthcare Operations SIG
