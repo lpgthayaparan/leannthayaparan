@@ -34,3 +34,6 @@ image:
   preview_only: false
 date: 2022-08-23T17:09:06.776Z
 ---
+* 2021 - Winner, ICSS Best Conference Paper Competition
+* 2021 - Finalist, Doing Good with Good OR Competition (Skali Lami, 21)
+* 2021 - Finalist, Public Sector Operations Research Best Paper Award
