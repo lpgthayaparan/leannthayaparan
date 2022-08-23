@@ -3,13 +3,10 @@ title: "COVID-19: A multiwave SIR-based model for learning waves"
 publication_types:
   - "2"
 authors:
-  - Perakis
-  - G.
-  - Singhvi
-  - D.
-  - Skali Lami
-  - O. and Thayaparan
-  - L.
+  - Georgia Perakis
+  - Divya Singhvi
+  - Omar Skali Lami
+  - and Leann Thayaparan
 doi: ""
 publication: Production and Operations Management
 abstract: One of the greatest challenges of the COVID-19 pandemic has been the
