@@ -20,4 +20,5 @@ content:
   order: desc
 design:
   view: 2
+  columns: "2"
 ---
