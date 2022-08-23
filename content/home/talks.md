@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: talks
 widget_id: talks
 headless: true
 weight: 30
