@@ -1,9 +1,9 @@
 ---
-widget: featured
-widget_id: Featured Publications
+widget: publications
+widget_id: Publications
 headless: true
 weight: 20
-title: Featured Publications
+title: Publications
 subtitle: ""
 content:
   page_type: publication
