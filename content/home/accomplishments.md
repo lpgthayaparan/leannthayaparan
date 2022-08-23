@@ -32,6 +32,6 @@ weight: 25
 title: Honors and Awards
 subtitle: null
 design:
-  columns: "1"
+  columns: "2"
 ---
 Text here
