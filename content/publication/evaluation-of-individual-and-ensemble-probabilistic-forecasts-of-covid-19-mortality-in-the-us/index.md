@@ -15,7 +15,7 @@ authors:
   - Katie H House
   - Yuxin Huang
   - and others
-publication: Cold Spring Harbor Laboratory Press
+publication: Medrxiv
 abstract: Short-term probabilistic forecasts of the trajectory of the COVID-19
   pandemic in the United States have served as a visible and important
   communication channel between the scientific modeling community and both the
