@@ -23,7 +23,7 @@ education:
       year: 2024
     - course: MBAn (Masters of Business Analytics)
       institution: Massachusetts Institute of Technology
-      year: 2017
+      year: 2019
     - course: BSE in Operations Research
       institution: Princeton University
       year: 2014
