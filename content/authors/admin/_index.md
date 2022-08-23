@@ -1,49 +1,34 @@
 ---
 title: Leann Thayaparan
 role: Operations Research PhD
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+bio: ""
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=-1ildgoAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/leann-thayaparan/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Operations Research Center, MIT
+    url: https://orc.mit.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: PhD in Operations Research
       institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
+      year: 2024
+    - course: MBAn (Masters of Business Analytics)
       institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2017
+    - course: BSE in Operations Research
+      institution: Princeton University
+      year: 2014
 email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Hello! I am a fourth-year PhD at the Operations Research Center at MIT, working with [](https://www.mit.edu/~dbertsim/)Professor Georgia Perakis. My research focuses on the intersection of operations management, optimization and machine learning modeling in the areas of sustainability and retail. I work on a variety of problems, ranging from to electric vehicle charging, optimal price allocation and COVID-19 forecasting.
