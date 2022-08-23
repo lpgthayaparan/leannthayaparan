@@ -34,4 +34,3 @@ subtitle: null
 design:
   columns: "2"
 ---
-Text here
