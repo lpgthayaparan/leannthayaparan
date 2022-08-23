@@ -2,7 +2,6 @@
 title: An Analysis of Television Show Viewership Growth through SIR Virus Models
 publication_types:
   - "7"
- weight: 1
 authors:
   - Leann Thayaparan
 draft: false
