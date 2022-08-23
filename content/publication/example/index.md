@@ -12,8 +12,11 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - L.Thayaparan
-  - G.Perakis
+  - Perakis
+  - Georgia and Singhvi
+  - Divya and Skali Lami
+  - Omar and Thayaparan
+  - Leann
 author_notes:
   - Equal contribution
   - Equal contribution
