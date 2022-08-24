@@ -1,7 +1,7 @@
 ---
 title: Leann Thayaparan
 role: Operations Research PhD
-avatar_filename: leann_photo.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Sustainable Operations
