@@ -9,7 +9,7 @@ authors:
   - Divya Singhvi
   - Omar Skali Lami
   - and Leann Thayaparan
-publication: Mathematical Programming
+publication: "Mathematical Programming: 1-35"
 draft: false
 featured: false
 image:
