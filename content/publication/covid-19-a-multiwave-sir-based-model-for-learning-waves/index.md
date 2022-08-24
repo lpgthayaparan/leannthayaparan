@@ -32,7 +32,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-02-21T16:56:50.772Z
+date: 2022-07-21T15:56:00.000Z
 ---
 * 2021 - Second Place, INFORMS Service Science Best Student Paper Award (INFORMS Annual Meeting)
 * Preliminary version in 2021 MSOM Healthcare Operations SIG
