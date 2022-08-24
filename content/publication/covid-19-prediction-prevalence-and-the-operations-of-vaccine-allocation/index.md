@@ -32,7 +32,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-08-23T17:09:06.776Z
+date: 2022-06-21T17:09:00.000Z
 ---
 * 2021 - Winner, ICSS Best Conference Paper Competition
 * 2021 - Finalist, Doing Good with Good OR Competition (Skali Lami, 21)
