@@ -24,7 +24,7 @@ education:
   courses:
     - course: PhD in Operations Research
       institution: Massachusetts Institute of Technology
-      year: 2024
+      year: ""
     - course: MBAn (Masters of Business Analytics)
       institution: Massachusetts Institute of Technology
       year: 2019
