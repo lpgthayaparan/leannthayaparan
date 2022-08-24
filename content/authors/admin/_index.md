@@ -30,7 +30,7 @@ education:
       year: 2019
     - course: BSE in Operations Research
       institution: Princeton University
-      year: 2014
+      year: 2016
 email: ""
 superuser: true
 highlight_name: true
