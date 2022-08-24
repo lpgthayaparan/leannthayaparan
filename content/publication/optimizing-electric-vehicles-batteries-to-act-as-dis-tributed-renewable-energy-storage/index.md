@@ -1,5 +1,5 @@
 ---
-title: Optimizing Electric Vehicles Batteries to Act as Dis- tributed Renewable
+title: Optimizing Electric Vehicle Batteries to Act as Distributed Renewable
   Energy Storage
 publication_types:
   - "3"
