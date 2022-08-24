@@ -3,7 +3,7 @@ title: Leann Thayaparan
 role: Operations Research PhD
 bio: ""
 interests:
-  - Sustainability Operations
+  - Sustainable Operations
   - Operations Management
   - Optimization
   - Machine Learning
