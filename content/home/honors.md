@@ -1,5 +1,5 @@
 ---
-widget: page
+widget: pages
 widget_id: honors
 headless: true
 weight: 50
