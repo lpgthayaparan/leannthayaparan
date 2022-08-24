@@ -7,7 +7,7 @@ authors:
   - Divya Singhvi
   - Omar Skali Lami
   - and Leann Thayaparan
-doi: ""
+doi: 10.1111/poms.13681
 publication: Production and Operations Management
 abstract: One of the greatest challenges of the COVID-19 pandemic has been the
   way evolving regulation, information, and sentiment have driven waves of the
