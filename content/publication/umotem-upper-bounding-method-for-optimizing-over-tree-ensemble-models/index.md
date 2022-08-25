@@ -3,11 +3,11 @@ title: "UMOTEM: Upper Bounding Method for Optimizing over Tree Ensemble Models"
 publication_types:
   - "3"
 authors:
-  - Setareh Boroujeni
-  - Kiran Panchamgam
-  - Georgia Perakis
-  - Rebecca Schubertruegmer
-  - and Leann Thayaparan
+  - Georgia Perakis (MIT)
+  - Leann Thayaparan (MIT)
+  - Setareh Boroujeni (Oracle Retail Business Unit)
+  - Kiran Panchamgam (Oracle Retail Business Unit)
+  - and Rebecca Schubertruegmer (Oracle Retail Business Unit)
 publication: soon to be submitted to Management Science
 draft: false
 featured: false
