@@ -3,7 +3,7 @@ widget: blank
 widget_id: honors
 headless: true
 weight: 50
-title: Honors and Awards
+title: Honors & Awards
 active: true
 design:
   columns: "2"
