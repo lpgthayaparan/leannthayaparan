@@ -3,7 +3,7 @@ widget: pages
 widget_id: Publications
 headless: true
 weight: 20
-title: Publications
+title: Publications*
 subtitle: ""
 content:
   filters:
@@ -23,3 +23,4 @@ design:
   view: citation
   columns: "2"
 ---
+\*Names of authors in publications are listed by alphabetical order
