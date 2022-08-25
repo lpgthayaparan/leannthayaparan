@@ -1,6 +1,6 @@
 ---
 title: Leann Thayaparan
-role: Operations Research PhD
+role: Operations Research Doctoral Candidate
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -23,7 +23,7 @@ organizations:
     url: https://orc.mit.edu/
 education:
   courses:
-    - course: PhD in Operations Research
+    - course: PhD Candidate in Operations Research
       institution: Massachusetts Institute of Technology
       year: ""
     - course: MBAn (Masters of Business Analytics)
