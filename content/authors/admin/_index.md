@@ -1,6 +1,6 @@
 ---
 title: Leann Thayaparan
-role: Operations Research Doctoral Candidate
+role: Operations Research PhD Candidate
 avatar_filename: avatar.jpg
 bio: ""
 interests:
