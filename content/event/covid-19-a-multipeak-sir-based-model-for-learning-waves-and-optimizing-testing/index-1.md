@@ -1,5 +1,5 @@
 ---
-title: "INFORMS 2021: COVID-19: A Multipeak SIR Based Model for Learning Waves
+title: "INFORMS, 2021: COVID-19: A Multipeak SIR Based Model for Learning Waves
   and Optimizing Testing"
 abstract: The COVID-19 pandemic has been marked by several waves. Traditional
   epidemiology models are not equipped to handle them. We propose a novel
