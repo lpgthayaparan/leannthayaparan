@@ -1,5 +1,5 @@
 ---
-title: "MOTEM: Method for Optimizing Over Tree Ensemble Models"
+title: "RMP, 2021: MOTEM: Method for Optimizing Over Tree Ensemble Models"
 abstract: >-
   Significant growth in data availability in revenue management, has made the
   useof machine learning tools core to forecasting and planning. In the case of
