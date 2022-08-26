@@ -1,6 +1,6 @@
 ---
-title: Solving High Dimensional Challenges Through Projection In Fast Fashion
-  Prediction
+title: "INFORMS, 2020: Solving High Dimensional Challenges Through Projection In
+  Fast Fashion Prediction"
 abstract: High dimensional data is a blessing and a curse, often necessary for
   the most interesting machine learning problems but bringing with it
   feature-correlation, noise and long runtimes. This is especially true in
