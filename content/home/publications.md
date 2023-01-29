@@ -35,7 +35,7 @@ design:
 
 **Works in Progress**
 
-* Georgia Perakis (MIT), **Leann Thayaparan** (MIT), Setareh Boroujeni (Oracle Retail Business Unit), Kiran Panchamgam (Oracle Retail Business Unit), and Rebecca Schubertruegmer (Oracle Retail Business Unit) (2022). [](https://leannthayaparan.netlify.app/publication/umotem-upper-bounding-method-for-optimizing-over-tree-ensemble-models/)
+* Georgia Perakis (MIT), **Leann Thayaparan** (MIT), Setareh Boroujeni (Oracle Retail Business Unit), Kiran Panchamgam (Oracle Retail Business Unit), and Rebecca Schubertruegmer (Oracle Retail Business Unit) (2022). [UMOTEM: Upper Bounding Method for Optimizing over Tree Ensemble Models](https://leannthayaparan.netlify.app/publication/umotem-upper-bounding-method-for-optimizing-over-tree-ensemble-models/)
 * Georgia Perakis and **Leann Thayaparan** (2022). [Optimizing Electric Vehicle Batteries to Act as Distributed Renewable Energy Storage](https://leannthayaparan.netlify.app/publication/optimizing-electric-vehicles-batteries-to-act-as-dis-tributed-renewable-energy-storage/). work in progress.
 * Tamar Cohen-Hillel, Georgia Perakis, Ionnis Spantidakis, and **Leann Thayaparan** (2022). [The SAFE Method for Feature Reduction and Prediction](https://leannthayaparan.netlify.app/publication/the-safe-method-for-feature-reduction-and-prediction/). soon to be submitted to Journal of Machine Learning.
 
