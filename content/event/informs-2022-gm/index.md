@@ -5,8 +5,8 @@ abstract: >-
  
   method.
 location: INFORMS Annual Conference 2022
-date: 2022-10-18T13:00:19.811Z
-date_end: 2021-10-18T14:30:00.000Z
+date: 2022-10-18T12:30:19.811Z
+date_end: 2021-10-18T13:45:00.000Z
 all_day: false
 event: INFORMS Annual Conference 2022
 event_url: https://meetings.informs.org/wordpress/indianapolis2022/#_gl=1*107tvc6*_gcl_aw*R0NMLjE2NzM5NzI2MjIuQ2owS0NRaUFxNW1lQmhDeUFSSXNBSnJ0ZHI0WlNDRERjUU1mcmYyMFJNVGpTc0djbk1jZ2w4elVHSXVGazVNNDE4VGhXSG9RX2pOUTFmTWFBa0JLRUFMd193Y0I.
