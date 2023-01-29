@@ -11,6 +11,7 @@ design:
     text_color_light: false
     image_darken: 0
 ---
+* 2022 - Finalist, Revenue Management and Pricing Jeff McGill Student Paper Award
 * 2021 - Finalist, Public Sector Operations Research Best Paper Award
 * 2021 - Second place, INFORMS Service Science Best Student Paper Award
 * 2021 - Winner, ICSS Best Conference Paper Competition
