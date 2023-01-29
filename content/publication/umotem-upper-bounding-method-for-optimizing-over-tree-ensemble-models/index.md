@@ -19,3 +19,5 @@ image:
   preview_only: false
 date: 2022-08-12T17:15:00.000Z
 ---
+* 2022 - Finalist, Revenue Management and Pricing Jeff McGill Student Paper Award
+
