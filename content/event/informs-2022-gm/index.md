@@ -1,7 +1,7 @@
 ---
-title: "INFORMS, 2022: UMOTEM: Upper Bounding Method for Optimizing over Tree Ensemble Models"
+title: "INFORMS, 2022: The Role of Driver Behavior in Moving the Electric Grid to Zero Emissions"
 abstract: >-
- Machine learning tools have become core to forecasting but the most sophisticated models are not easily optimized over. When tree-based models, such as Random Forest or XGBoost, are used in optimization formulations they then require an exponential number of binary decision variables. These formulations do not scale well and result in intractable formulations. In this work, we propose a scalable approximation of the optimization formulation that can optimize over ensemble tree models in linear time while also showing theoretical bounds on the optimality gap and strong computational results. (Method for Optimizing over Tree Ensemble Models) is an algorithm for optimizing an objective function that is determined by an ensemble tree model.
+ As we move towards more renewable resources, the ability to produce electricity in time with demand diminishes. Instead, rises a need for energy storage or the ability to produce electricity when renewables allow and store it for when demand needs it later. Electric Vehicles (EVs) have been discussed as a way of providing a distributed energy storage resource to the electric grid. However before EVs can be used to support the grid, through optimal charging and discharging, highly complex, non-linear driver behavior must be accounted for. In this work we combine machine learning with optimization to model driver behavior in order to size the capacity of energy storage EVs can offer the grid.
  
   method.
 location: INFORMS Annual Conference 2022
